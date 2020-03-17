@@ -1,8 +1,9 @@
 # TASKS OF THE PROJECT MCMCSE(GSOC 2020)
 
 ## Easy:
-(1) 
-Download the mcmcse package from CRAN and use the function ess on a vector foo of length 1e4 randomly drawn from a standard normal distribution. (2) Make a random matrix of size 10 x 10 and produce only the eigenvalues of the matrix.
+
+(1) Download the mcmcse package from CRAN and use the function ess on a vector foo of length 1e4 randomly drawn from a standard normal distribution. 
+(2) Make a random matrix of size 10 x 10 and produce only the eigenvalues of the matrix.
 
 ## Medium:
 Write a function that runs a Gaussian AR(1) model and use mcmcse to estimate the effective sample size.
