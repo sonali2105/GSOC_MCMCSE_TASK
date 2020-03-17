@@ -1,16 +1,14 @@
-# TASKS OF THE PROJECT
+# TASKS OF THE PROJECT MCMCSE
 
 ## Easy:
-___
 (1) 
 Download the mcmcse package from CRAN and use the function ess on a vector foo of length 1e4 randomly drawn from a standard normal distribution. (2) Make a random matrix of size 10 x 10 and produce only the eigenvalues of the matrix.
 
 ## Medium:
-___ 
 Write a function that runs a Gaussian AR(1) model and use mcmcse to estimate the effective sample size.
 
 ## Hard:
-___ 
+ 
 Implement the replicated batch means estimator from this paper.
 
 # SOLUTION
